@@ -1,0 +1,19 @@
+{
+  "name": "lgtv-node-server",
+  "version": "1.0.0",
+  "description": "Node.js server for LG Smart TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shooshpanov/lgtv-server.git"
+  },
+  "author": "Serge S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shooshpanov/lgtv-server/issues"
+  },
+  "homepage": "https://github.com/shooshpanov/lgtv-server#readme"
+}
